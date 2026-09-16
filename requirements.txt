@@ -1,0 +1,17 @@
+# Deep Learning & CV
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+albumentations>=1.3.1
+Pillow>=9.0.0
+
+# Geospatial Data
+rasterio>=1.3.0
+geopandas>=0.13.0
+pyproj>=3.5.0
+shapely>=2.0.0
+
+# Data & Utils
+numpy>=1.24.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
